@@ -17,7 +17,12 @@ document.addEventListener("DOMContentLoaded", () => {
         "Mong chúng mình sẽ luôn yêu thương",
         "thấu hiểu",
         "đồng hành cùng nhau thật lâu",
-        " Anh yêu em nhiều lắm",
+        " Anh biết mỗi ngày em đều rất mệt mỏi",
+        "Nhưng em đừng có chịu đựng một mình nhé 🙌",
+        "Anh vẫn luôn lắng nghe và trò chuyện cùng em",
+        "Anh sẽ luôn đồng hành cùng em 🙌",
+        "Mong em đặt được những điều luôn mơ ước, mong muốn 💓",
+        " Anh yêu em nhiều lắm"
     ];
 
     // Biến đếm để lấy text theo thứ tự
